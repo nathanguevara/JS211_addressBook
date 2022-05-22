@@ -1,0 +1,41 @@
+* {
+    max-width: 500px;
+    margin: auto;
+}
+
+body {
+    background-color: #2374E1;
+    color: white;
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Karla', sans-serif;
+    font-family: 'Roboto Serif', serif;
+}
+
+h1,
+h6 {
+    text-align: center;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+}
+
+li {
+    list-style: none;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
+img {
+    padding-bottom: 10px;
+}
+
+button {
+    padding-top: 5px;
+    background-color: white;
+    height: 30px;
+    width: 100px;
+    border-radius: 50px;
+}
